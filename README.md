@@ -7,29 +7,27 @@
 
 ## Project Overview
 
-- Briefly describe the purpose of the project.
-- Explain the story you are telling through the webpage and the key interactive elements.
+-  The purpose of this project was just to showcase a young adult walking home after a night out with their friends but drank a little too much. Now has the responsibility to carry themselves, but safely?
 
 ## Features
 
 - List the key features of the project, including:
-    - **Animations**: Describe the animations you implemented (e.g., CSS transitions, GSAP effects).
-    - **Sound Effects**: Specify where sound effects are used and how they enhance the user experience.
-    - **User-triggered Events**: Explain how users interact with the page (e.g., clicking, scrolling, hovering) and how the page responds.
-    - **Responsive Design**: Explain how the design adapts to different devices (e.g., desktop, tablet, mobile).
+    - **Animations**: I used hover, i have a flashing animation and i made a rain animation.
+    - **Sound Effects**: when clicking a choice itll plays a sound and i added background rain.
+    - **User-triggered Events**: clicking changes the story. Hovering over a choice shows the characters thoughts.
+    - **Responsive Design**: Text and spacing adjust to screen size. Buttons stack vertically on smaller screens.
 
 ## Technologies Used
 
 - List the technologies and tools used in the project:
-    - **Languages**: HTML, CSS, JavaScript
-    - **Libraries**: (e.g., GSAP for animations)
-    - **Other**: GitHub Pages for hosting, Figma for design
+    - **Languages**: HTML, CSS, and JavaScript.
+    - **Libraries**: the animations use CSS.
+    - **Other**: VS Code for editing and ChatGPT for generating images.
 
 ## Credits
 
-- List any third-party assets used in the project (e.g., sound effects, images, fonts) and provide proper attribution.
-- Acknowledge any resources, tutorials, or references you used to help complete the project.
+- I just used chatgpt for generating pictures. 
 
 ## Future Enhancements
 
-- List any features you would’ve liked to add if given more time
+- just add more features and more options in the future. 
