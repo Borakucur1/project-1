@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-- Include a link to the live version of the project hosted on GitHub Pages.
+- https://borakucur1.github.io/project-1/
 
 ## Project Overview
 
